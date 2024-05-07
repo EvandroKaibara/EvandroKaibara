@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou Evandro Kaibara, um estudante de programação em busca de um freelancer ou um estágio. Trabalho em qualquer área dentro da técnologia, porém as linguagens que tenho foco são no <strong>BackEnd</strong>.<br>
+  Sou Evandro Kaibara, um estudante de programação em busca de um freelancer ou um estágio. Trabalho em qualquer área dentro da tecnologia, atuo como <strong>FullStack</strong>.<br>
   Atualmente sou professor de inglês, faço cursos de aperfeiçoamento em linguagens de programação, sempre tentando melhorar em diversos aspectos.
 </p>
 
