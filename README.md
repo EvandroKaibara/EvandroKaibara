@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: **SQLServer; Visual Studio.**
+  💼 Ferramentas: **SQLServer; Visual Studio; Visual Studio Code.**
 </p>
 
 <p align="left">
