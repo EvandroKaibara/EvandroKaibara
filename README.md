@@ -21,3 +21,5 @@
   <a href="https://www.instagram.com/chateante/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/chateante/" alt="Instagram"/></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" width="100%" />
