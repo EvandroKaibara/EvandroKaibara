@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&center=true&vCenter=true&width=600&color=FF8C00&lines=Bem-Vindo!;Eu+sou+Evandro+Kaibara;Desenvolvedor" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&center=true&vCenter=true&width=600&color=FF8C00&lines=Seja+Bem-Vindo!;Eu+sou+Evandro+Kaibara" />
 </h1>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
