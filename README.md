@@ -1,25 +1,49 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&center=true&vCenter=true&width=600&color=FF8C00&lines=Bem-Vindo!;Eu+sou+Evandro+Kaibara;Desenvolvedor" />
+</h1>
 
-<p align="left"> 
-  Sou Evandro Kaibara! Trabalho atualmente na Magellan Group, atuo como <strong>Desenvolvedor</strong> e <strong>Suporte Técnico.</strong><br>
-  Atualmente estou cursando <strong>Engenharia de Software</strong> na FIAP.
-</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+     alt="ilustração de um computador" 
+     min-width="400px" 
+     max-width="400px" 
+     width="400px" 
+     align="right">
+
+### 👨‍💻 Sobre mim
+
+Sou **Evandro Kaibara** 👋  
+💼 Atualmente trabalho na **Magellan Group** como **Desenvolvedor** e **Suporte Técnico**.  
+🎓 Cursando **Engenharia de Software** na **FIAP**.  
+🚀 Apaixonado por tecnologia e desenvolvimento de soluções eficientes.
+
+---
+
+### 🛠️ Tecnologias
 
 <p align="left">
-  🦄 Linguagens: **HTML, CSS, JavaScript, React, SQL.**
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql" />
 </p>
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+---
+
+### 📬 Contato
 
 <p align="left">
-  <a href="yujievandro@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=yujievandro@gmail.com" alt="Gmail"/></a>
+  <a href="mailto:yujievandro@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-FF4E50?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/evandro-yuji-kaibara-53247927a/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evandro-yuji-kaibara-53247927a/" alt="LinkedIn"/></a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
   <a href="https://www.instagram.com/chateante/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/chateante/" alt="Instagram"/></a>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" width="100%" />
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF3ED1&height=120&section=footer"/>
+</div>
