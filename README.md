@@ -33,7 +33,7 @@ Sou **Evandro Kaibara** 👋
     <img src="https://img.shields.io/badge/Gmail-FF4E50?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/evandro-yuji-kaibara-53247927a/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/evandro-kaibara-53247927a/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
