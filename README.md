@@ -21,7 +21,7 @@ Sou **Evandro Kaibara** 👋
 ### 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,postgres,sql,java,spring" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,postgres,mysql,java,spring" />
 </p>
 
 ---
