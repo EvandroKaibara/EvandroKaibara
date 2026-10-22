@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&center=true&vCenter=true&width=600&color=FF8C00&lines=Seja+Bem-Vindo(a)!;Eu+sou+Evandro+Kaibara" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&center=true&vCenter=true&width=600&color=12F7D6&lines=Seja+Bem-Vindo(a)!;Eu+sou+Evandro+Kaibara" />
 </h1>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
@@ -36,14 +36,10 @@ Sou **Evandro Kaibara** 👋
   <a href="https://www.linkedin.com/in/evandro-kaibara-53247927a/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="https://www.instagram.com/chateante/" title="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF3ED1&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12F7D6,100:98FAEC&height=120&section=footer"/>
 </div>
