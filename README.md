@@ -2,23 +2,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&center=true&vCenter=true&width=600&color=12F7D6&lines=Seja+Bem-Vindo(a)!;Eu+sou+Evandro+Kaibara" />
 </h1>
 
-<img src="https://drive.google.com/file/d/16ULfNqjjwScuwE8FkCBwRiHvEkRjpzg0/view?usp=sharing" 
-     alt="ilustração de um computador" 
-     min-width="400px" 
-     max-width="400px" 
-     width="400px" 
+<img src="./Logo Gradiente.svg"
+     width="250px" 
      align="right">
 
-### 👨‍💻 Sobre mim
+### Sobre mim
 
-Sou **Evandro Kaibara** 👋  
-💼 Atualmente trabalho na **Magellan Group** como **Desenvolvedor** e **Suporte Técnico**.  
-🎓 Cursando **Engenharia de Software** na **FIAP**.  
-🚀 Apaixonado por tecnologia e desenvolvimento de soluções eficientes.
+Sou **Evandro Kaibara**  
+Atualmente trabalho na **Magellan Group** como **Desenvolvedor** e **Suporte Técnico**.  
+Cursando **Engenharia de Software** na **FIAP**.  
+Apaixonado por tecnologia e desenvolvimento de soluções eficientes.
 
 ---
 
-### 🛠️ Tecnologias
+### Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,postgres,mysql,java,spring" />
@@ -26,7 +23,7 @@ Sou **Evandro Kaibara** 👋
 
 ---
 
-### 📬 Contato
+### Contato
 
 <p align="left">
   <a href="mailto:yujievandro@gmail.com" title="Gmail">
