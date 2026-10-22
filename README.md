@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&center=true&vCenter=true&width=600&color=12F7D6&lines=Seja+Bem-Vindo(a)!;Eu+sou+Evandro+Kaibara" />
 </h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
+<img src="https://drive.google.com/file/d/16ULfNqjjwScuwE8FkCBwRiHvEkRjpzg0/view?usp=sharing" 
      alt="ilustração de um computador" 
      min-width="400px" 
      max-width="400px" 
