@@ -3,9 +3,9 @@
 </h1>
 
 <img src="./Logo Gradiente.svg"
-     width="250px"
-     max-width="250px"
-     min-width="250px"
+     width="220px"
+     max-width="220px"
+     min-width="220px"
      align="right">
 
 ### Sobre mim
